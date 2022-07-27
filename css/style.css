@@ -24,6 +24,10 @@
     text-align: center;
 }
 
+.footer{
+    height: 250px;
+}
+
 
 /* 스마트폰 가로+세로 */
 @media only screen and (min-device-width : 320px) and (max-device-width : 480px){
