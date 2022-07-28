@@ -17,6 +17,7 @@
     max-width: 500px;
     min-width: 320px;
     text-align: center;
+	background-color: #222328;
 }
 .top>img{
     width: 100%;
@@ -24,6 +25,7 @@
 .IN{
     max-width: 500px;
     text-align: center;
+	background-color: aqua;
 }
 .IN>img{
     width: 10%;
